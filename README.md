@@ -1,18 +1,9 @@
 # 拜托，这么小众的歌都被你发现了，我的底牌又少了一张。
 
-围绕音乐分享展开的人机卡牌猜歌 Demo。
+本仓库仅分发 Windows 试玩程序和使用说明，应用源码保留在私有仓库。
 
-- [在线试玩](https://my-treasure-music.vercel.app/)
-- Windows 程序通过本仓库的 Releases 附件提供，无需安装 Node.js。
-- 本仓库仅用于程序分发，私有源码仓库不在此公开。
+- [网页试玩](https://my-treasure-music.vercel.app/)
+- [下载 Windows 10/11 x64 v0.6.2 免安装版](https://github.com/QI-seven33/My-treasure-music-releases/releases/download/v0.6.2/My-treasure-music-0.6.2-win-x64.exe)
+- [版本说明与校验文件](https://github.com/QI-seven33/My-treasure-music-releases/releases/tag/v0.6.2)
 
-## 使用说明
-
-适用于 Windows 10/11 x64。下载 EXE 后双击运行，免安装、无需管理员权限。
-音乐、插画和游戏资源随程序提供；歌曲资料与视频链接需要网络访问。
-设置只保存在本机，不自动更新或上传对局数据。
-
-程序为未签名的参赛试玩版，Windows 可能提示未知发布者。
-请通过 Release 附带的 SHA256.txt 核对下载文件。
-
-网页和桌面版分别保存个人设置。版本号以 Release 标题和文件名为准。
+下载 EXE 后双击运行，无需管理员权限。程序为人机对战演示版，不上传个人游戏数据。试玩程序尚未进行代码签名。可使用附件 SHA256.txt 校验下载文件；详细玩法和音乐出处见程序与随附说明。
